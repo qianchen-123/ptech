@@ -1,0 +1,6 @@
+{
+  "StreamingFCLayer_Batch_0": 60,
+  "StreamingFCLayer_Batch_1": 64,
+  "StreamingFCLayer_Batch_2": 64,
+  "StreamingFCLayer_Batch_3": 64
+}

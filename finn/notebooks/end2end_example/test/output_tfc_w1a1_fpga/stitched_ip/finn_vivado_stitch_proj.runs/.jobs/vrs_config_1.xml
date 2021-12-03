@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="finn_design_StreamingDataWidthConverter_Batch_0_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingDataWidthConverter_Batch_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_ConvolutionInputGenerator_0_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_ConvolutionInputGenerator_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFCLayer_Batch_4_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFCLayer_Batch_4_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFCLayer_Batch_4_wstrm_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFCLayer_Batch_4_wstrm_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFCLayer_Batch_3_wstrm_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFCLayer_Batch_3_wstrm_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFIFO_1_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFIFO_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_FMPadding_Batch_0_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_FMPadding_Batch_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFIFO_0_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFIFO_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingDataWidthConverter_Batch_1_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingDataWidthConverter_Batch_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingMaxPool_Batch_0_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingMaxPool_Batch_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFIFO_6_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFIFO_6_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingDataWidthConverter_Batch_2_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingDataWidthConverter_Batch_2_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFCLayer_Batch_0_wstrm_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFCLayer_Batch_0_wstrm_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingMaxPool_Batch_1_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingMaxPool_Batch_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFCLayer_Batch_0_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFCLayer_Batch_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingDataWidthConverter_Batch_4_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingDataWidthConverter_Batch_4_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFCLayer_Batch_1_wstrm_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFCLayer_Batch_1_wstrm_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFCLayer_Batch_1_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFCLayer_Batch_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFIFO_9_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFIFO_9_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingDataWidthConverter_Batch_3_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingDataWidthConverter_Batch_3_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_ConvolutionInputGenerator_1_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_ConvolutionInputGenerator_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFIFO_7_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFIFO_7_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingDataWidthConverter_Batch_5_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingDataWidthConverter_Batch_5_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFIFO_13_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFIFO_13_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFCLayer_Batch_2_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFCLayer_Batch_2_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFCLayer_Batch_2_wstrm_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFCLayer_Batch_2_wstrm_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFIFO_14_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFIFO_14_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="finn_design_StreamingFCLayer_Batch_3_0_synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/finn_design_StreamingFCLayer_Batch_3_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="/home/zqc/Desktop/ptech/finn/notebooks/end2end_example/test/output_tfc_w1a1_fpga/stitched_ip/finn_vivado_stitch_proj.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="finn_design_StreamingDataWidthConverter_Batch_0_0_synth_1"/>
+		<Parent Id="finn_design_ConvolutionInputGenerator_0_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFCLayer_Batch_4_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFCLayer_Batch_4_wstrm_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFCLayer_Batch_3_wstrm_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFIFO_1_0_synth_1"/>
+		<Parent Id="finn_design_FMPadding_Batch_0_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFIFO_0_0_synth_1"/>
+		<Parent Id="finn_design_StreamingDataWidthConverter_Batch_1_0_synth_1"/>
+		<Parent Id="finn_design_StreamingMaxPool_Batch_0_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFIFO_6_0_synth_1"/>
+		<Parent Id="finn_design_StreamingDataWidthConverter_Batch_2_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFCLayer_Batch_0_wstrm_0_synth_1"/>
+		<Parent Id="finn_design_StreamingMaxPool_Batch_1_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFCLayer_Batch_0_0_synth_1"/>
+		<Parent Id="finn_design_StreamingDataWidthConverter_Batch_4_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFCLayer_Batch_1_wstrm_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFCLayer_Batch_1_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFIFO_9_0_synth_1"/>
+		<Parent Id="finn_design_StreamingDataWidthConverter_Batch_3_0_synth_1"/>
+		<Parent Id="finn_design_ConvolutionInputGenerator_1_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFIFO_7_0_synth_1"/>
+		<Parent Id="finn_design_StreamingDataWidthConverter_Batch_5_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFIFO_13_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFCLayer_Batch_2_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFCLayer_Batch_2_wstrm_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFIFO_14_0_synth_1"/>
+		<Parent Id="finn_design_StreamingFCLayer_Batch_3_0_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+		<Parameter Name="runs.enableClusterConf" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+
